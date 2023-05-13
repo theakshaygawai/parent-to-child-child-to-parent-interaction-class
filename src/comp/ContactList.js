@@ -1,6 +1,5 @@
 import React from 'react'
 import axios from 'axios';
-import { CustData } from './CustData';
 
 class ContactList extends React.Component{
     constructor(props){
